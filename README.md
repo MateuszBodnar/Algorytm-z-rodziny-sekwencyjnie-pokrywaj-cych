@@ -1,0 +1,1 @@
+# Algorytm-z-rodziny-sekwencyjnie-pokrywaj-cych
